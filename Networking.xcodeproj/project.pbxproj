@@ -72,11 +72,11 @@
 			children = (
 				473BFF4929362A5400195437 /* AppDelegate.swift */,
 				473BFF4B29362A5400195437 /* SceneDelegate.swift */,
-				473BFF6229362B5300195437 /* Controllers */,
 				473BFF5D29362B4600195437 /* Helper */,
+				473BFF6729362B5D00195437 /* Cell */,
+				473BFF6229362B5300195437 /* Controllers */,
 				473BFF4F29362A5400195437 /* Main.storyboard */,
 				473BFF5229362A5500195437 /* Assets.xcassets */,
-				473BFF6729362B5D00195437 /* Cell */,
 				473BFF5429362A5500195437 /* LaunchScreen.storyboard */,
 				473BFF5729362A5500195437 /* Info.plist */,
 			);
